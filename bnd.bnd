@@ -1,0 +1,7 @@
+Automatic-Module-Name: org.whistlepost.extensions
+Bundle-Name: Whistlepost Extensions
+Bundle-Description: Service integration for Apache Sling
+Bundle-SymbolicName: org.whistlepost.extensions
+Bundle-Category: whistlepost
+Bundle-Version: ${project.version}
+Export-Package = org.whistlepost.extensions*
